@@ -58,4 +58,4 @@ Planned components:
 ## Project Status
 
 - [x] Milestone 1 — Hardware Profiling
-- [ ] Milestone 2 — Automated Evaluation Suite
+- [x] Milestone 2 — Automated Evaluation Suite
