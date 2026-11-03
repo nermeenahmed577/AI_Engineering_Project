@@ -33,6 +33,9 @@ The profiling implementation is available in:
 
 `Milestone_1/milestone1_hardware_profiler.ipynb`
 
+<img width="687" height="739" alt="Milestone 1" src="https://github.com/user-attachments/assets/76b5283d-2c45-4dbf-be53-7a84c4f9f971" />
+
+
 ## Milestone 2 — Automated Regression Evaluation Suite
 
 **Objective:** Build an automated evaluation pipeline to measure the quality and correctness of model responses.
@@ -45,6 +48,9 @@ Planned components:
 - Judge Calibration
 - Automated Pass/Fail Reporting
 - CI/CD Integration
+
+  <img width="1535" height="852" alt="Mileston 2" src="https://github.com/user-attachments/assets/378092c5-d7b2-45ee-ba8b-5878958a7854" />
+
 
 ## Technologies Used
 
